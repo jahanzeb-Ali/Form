@@ -54,6 +54,3 @@ button.cancel{
     cursor: pointer;
 
 }
-input:invalid{
-    border-bottom: 2px solid red;
-}
