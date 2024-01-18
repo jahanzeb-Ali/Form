@@ -54,7 +54,7 @@ button.cancel{
     cursor: pointer;
 
 }
-input:: placeholder {
+input:: placeholder:focus {
     font-size: 16px;
     color: blue;
 }
