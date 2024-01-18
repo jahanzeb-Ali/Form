@@ -54,3 +54,7 @@ button.cancel{
     cursor: pointer;
 
 }
+input:: placeholder {
+    font-size: 16px;
+    color: white
+}
